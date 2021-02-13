@@ -1,6 +1,6 @@
 # Python API Challenge
 
-![Beach](image/beach.jpg)
+![Beach](Image/beach.jpg)
 
 ## WeatherPy 
 
